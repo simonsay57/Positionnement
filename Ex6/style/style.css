@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.bleuciel1 {
+    position: absolute;
+    background-color: rgb(0, 162, 255);
+    width: 450px;
+    height: 450px;
+    border: solid 2px black;
+    top: 5vh;
+}
+.rectanglevert1 {
+    position: absolute;
+    background-color: green;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    top: 50px;
+    left: 50px;
+}
+.rectanglebleu1 {
+    position: absolute;
+    background-color: blue;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    top: 100px;
+    left: 100px;
+    opacity: 0.7;
+    z-index: 3;
+}
+.rectangleorange1 {
+    position: absolute;
+    background-color: orangered;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    bottom: 97px;
+    left: 200px;
+    z-index: 2;
+}
+.rectanglejaune1 {
+    position: absolute;
+    background-color: yellow;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    bottom: 50px;
+    right: 50px;
+}

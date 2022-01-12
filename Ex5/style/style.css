@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.bleuciel1 {
+    position: absolute;
+    background-color: rgb(0, 162, 255);
+    width: 450px;
+    height: 450px;
+    border: solid 2px black;
+    top: 5vh;
+}
+.rectanglevert1 {
+    position: absolute;
+    background-color: green;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    top: 50px;
+    left: 50px;
+}
+.rectanglebleu1 {
+    position: absolute;
+    background-color: blue;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    top: 50px;
+    right: 50px;
+}
+.rectangleorange1 {
+    position: absolute;
+    background-color: orangered;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    bottom: 50px;
+    left: 50px;
+}
+.rectanglejaune1 {
+    position: absolute;
+    background-color: yellow;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    bottom: 50px;
+    right: 50px;
+}
+#titre2 {
+    position: absolute;
+    top: 0px;
+    right: 370px;
+}
+.bleuciel2 {
+    position: relative;
+    background-color: rgb(0, 162, 255);
+    width: 450px;
+    height: 450px;
+    border: solid 2px black;
+    top: 1vh;
+    left: 1000px;
+}
+.rectanglevert2 {
+    position: relative;
+    background-color: green;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    top: 50px;
+    left: 50px;
+}
+.rectanglebleu2 {
+    position: relative;
+    background-color: blue;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    top: -100px;
+    right: -250px;
+}
+.rectangleorange2 {
+    position: relative;
+    background-color: orangered;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    bottom: 50px;
+    left: 50px;
+}
+.rectanglejaune2 {
+    position: relative;
+    background-color: yellow;
+    border: solid 2px black;
+    width: 150px;
+    height: 150px;
+    bottom: 200px;
+    right: -250px;
+}
